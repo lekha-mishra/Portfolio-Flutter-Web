@@ -1,4 +1,10 @@
 # Responsive and Animated Portfolio Website & App - Flutter UI
+[![Swift](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=%23F05138)](https://swift.org/)
+[![Ruby](https://img.shields.io/badge/ruby-%2320232a.svg?style=for-the-badge&logo=ruby&logoColor=%23CC342D)](https://www.ruby-lang.org/)
+[![Dart](https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%230175C2)](https://dart.dev/)
+[![C++](https://img.shields.io/badge/c++-%2320232a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C)](https://isocpp.org/)
+[![CMake](https://img.shields.io/badge/cmake-%2320232a.svg?style=for-the-badge&logo=cmake&logoColor=%23008FCC)](https://cmake.org/)
+[![Other](https://img.shields.io/badge/other-%2320232a.svg?style=for-the-badge)]( )
 
 **Packages we are using:**
 
